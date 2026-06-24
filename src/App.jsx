@@ -7,7 +7,6 @@ import Dashboard from './pages/Dashboard';
 import CourseManagement from './pages/CourseManagement';
 import CourseDetail from './pages/CourseDetail';
 import CourseForm from './components/Forms/CourseForm';
-import CreateCourse from './pages/CreateCourse';
 import EditCourse from './pages/EditCourse';
 import Login from './pages/Login';
 import ProtectedRoute from './components/ProtectedRoute';

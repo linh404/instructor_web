@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { getUserInfo, updateUserInfo } from '../../services/api';
-import uploadFile from '../../services/upload';
 
 const UserProfileForm = ({ userId }) => {
   const [form, setForm] = useState({
