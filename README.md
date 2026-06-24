@@ -11,7 +11,7 @@ Dự án này là một phần trong **hệ thống quản lý khóa học trự
 
 | Thành phần | Mô tả | Link |
 |---|---|---|
-| 🌐 **Instructor Web (repo này)** | Giao diện web dành cho giảng viên quản lý khóa học | [github.com/linh404/instructor_web](https://github.com/linh404/instructor_web) |
+| 🌐 **Instructor Web** | Giao diện web dành cho giảng viên quản lý khóa học | [github.com/linh404/instructor_web](https://github.com/linh404/instructor_web) |
 | ⚙️ **Backend API** | REST API server xử lý logic nghiệp vụ, database | [github.com/holyBeastt/android_basic_app_server](https://github.com/holyBeastt/android_basic_app_server) |
 | 📱 **App (Mobile)** | Ứng dụng di động cho học viên (Flutter) | [github.com/holyBeastt/flutter_basic_app](https://github.com/holyBeastt/flutter_basic_app) |
 
